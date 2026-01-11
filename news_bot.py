@@ -29,7 +29,7 @@ except ImportError:
 # إعدادات البوت - جاهزة للعمل
 # ==========================================
 TELEGRAM_TOKEN = "8105384548:AAHVJ6QrQwJSiws3PxXswVYXk43wYwMHHw8"
-CHANNEL_ID = "@IRQnews_bot" 
+CHANNEL_ID = "-1003578923285" 
 OPENAI_API_KEY = "ضع_مفتاح_openai_هنا" 
 CHECK_INTERVAL = 300 
 
